@@ -1,0 +1,22 @@
+D:\SU4\C#\Lab\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\SU4\C#\Lab\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\SU4\C#\Lab\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\SU4\C#\Lab\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+D:\SU4\C#\Lab\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+D:\SU4\C#\Lab\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\SU4\C#\Lab\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\SU4\C#\Lab\Final Project\Final Project\obj\Debug\Final Project.pdb
+D:\SU4\C#\Lab\Final Project\Final Project\bin\Debug\ConsoleTables.dll
+D:\SU4\C#\Lab\Final Project\Final Project\bin\Debug\ConsoleTables.pdb
+D:\SU4\C#\Lab\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\bin\Debug\ConsoleTables.dll
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\bin\Debug\ConsoleTables.pdb
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\scool lesson\Semester2\C#\Final Project C#\Final Project\Final Project\obj\Debug\Final Project.pdb
